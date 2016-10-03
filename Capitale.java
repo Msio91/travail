@@ -3,6 +3,7 @@ public class Capitale {
 	//55
 	//6655
 	//77
+	//88
 	//Attributs privés
 	private String nom;
 	private int nbHabitants;
